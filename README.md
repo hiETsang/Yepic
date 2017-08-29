@@ -4,7 +4,7 @@
 
 当需要手机写博客或者文章的时候，不再需要用电脑进行再次配图了
 
-![](README/E14E9B29-A916-4FEE-BE7F-FC6625CACEDC.png)
-![](README/CEC5A7C3-42AB-442A-9179-FD1CBE2E985C.png)
+![](http://onb39khov.bkt.clouddn.com/Ft_nh2e8gQnR-BCIqoxvOqafcXrq)
+![](http://onb39khov.bkt.clouddn.com/Fv_DAOs9KePE278oZH4tRIs_JoPE)
 
 功能待完善。
