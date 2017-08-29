@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  Yepic
+//
+//  Created by 肖坚伟 on 2016/11/20.
+//  Copyright © 2016年 Canoe. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "YECommonDefine.h"
+
+#define MAS_SHORTHAND
+#define MAS_SHORTHAND_GLOBALS
+#import <Masonry.h>
+
+#import "YEColorManager.h"
+#import "UIView+frameByPoint.h"
+
+#endif /* PrefixHeader_pch */
